@@ -1,0 +1,7 @@
+Tạo 4 task chạy round_robin:
+Task 1: Gửi kí tự Serial cho ESP và hiển thị lên Serial Monitor
+Task 2: Đo nhiệt độ, độ ẩm bằng DHT11 và hiển thị lên cửa sổ Monitor
+Task 3: Cho buzzer phát nhạc MerryChrismast
+Task 4: Led NEO PIXEL hiển thị hiệu ứng cầu vồng
+
+Software timer: Mỗi 1s gọi hàm đọc thời gian RTC và hiển thị lên cửa sổ Monitor
